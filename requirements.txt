@@ -1,0 +1,7 @@
+streamlit
+pytesseract
+Pillow
+PyMuPDF
+docx2txt
+langchain
+openai
